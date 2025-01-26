@@ -1,6 +1,7 @@
 streamlit
 opencv-python
 opencv-contrib-python
+tensorflow
 numpy
 pandas
-tensorflow
+huggingface-hub

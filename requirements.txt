@@ -1,2 +1,5 @@
-tensorflow
+streamlit
 opencv-python
+opencv-contrib-python
+numpy
+pandas
